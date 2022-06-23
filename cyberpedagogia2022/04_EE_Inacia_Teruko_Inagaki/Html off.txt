@@ -1,0 +1,35 @@
+<html>
+<body>
+
+<h1>Minha Escola</h1>
+<h2>E.E Inácia Teruko Inagaki</h2>
+<h3>Bruna Maria Pereira Sabião</h3>
+
+<p>Leciono nesta escola desde 2014</p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<html>
+<body>
+
+<h1>PROJETO 1 - CYBERPEDAGOGIA 2022</h1>
+<h2>Meus Componentes</h2>
+
+<img src="BUZZER.jpg"width="100">
+<h3>Peça um pouco maior que se chama BUZZER, que quer dizer CAMPAINHA em inglês.</h3>
+
+<img src="RESISTOR.jpg"width="100">
+<h3>Peça pequena chamada RESISTOR e no meio dela tinha várias faixas coloridas pintadas.</h3>
+
+<img src="LEDS.jpg"width="100">
+<h3>Peças cabeçudas LEDs que vão brilhar</h3>
+
+<img src="PILHAS.jpg"width="100">
+<h3> Pilhas AA que irão fornecer energia.</h3>
+
+<img src="FIOS.png"width="100">
+<h3>Fios que conectam uma peça na outra</h3>
